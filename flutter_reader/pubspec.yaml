@@ -28,7 +28,7 @@ dependencies:
   sqflite: ^1.1.0
   rxdart: ^0.22.0
   carousel_slider: ^1.3.1
-  cached_network_image: ^1.1.1
+  cached_network_image: ^2.0.0
   flutter_easyrefresh: ^1.2.7
   adsorptionview_flutter: ^0.1.3
   intl: ^0.16.0

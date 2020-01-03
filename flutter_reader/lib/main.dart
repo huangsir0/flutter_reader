@@ -9,6 +9,7 @@ import 'common/redux/theme_redux.dart';
 import 'common/utils/settings.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   final value = await AppSetting.instance.getAppColor();
 
   print("value=${value}");
